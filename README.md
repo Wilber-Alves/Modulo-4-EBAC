@@ -6,7 +6,7 @@ Scene created for exercise of module-4-EBAC. A objec called AnimalSignSystem (cl
 * The Maze Game started!
 * Collect coins, power orbs and find the exit of the maze.
 * Basic Moves - Use arrow keys to rotate the Maze (ground object) and A/S to change speed and guide the orb to the end.
-* CHALLENGE: THERE ARE 3 ANIMAL SIGNS ON TABLETS HIDDEN IN THE LABYRINTH, FIND THEM AND UNCOVER USEFUL SECRETS.
+* CHALLENGE: THERE ARE 3 ANIMAL SIGNS ON TABLETS HIDDEN IN THE MAZE, FIND THEM AND UNCOVER USEFUL SECRETS.
 
 Code
 
