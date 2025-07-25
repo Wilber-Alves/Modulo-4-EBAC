@@ -1,6 +1,6 @@
 # Modulo-4-EBAC
 
-Scene created for exercise of module-4-EBAC. A objec called AnimalSignSystem (class = ScriptModulo4EBAC) was added to the scene of a maze game. The class containing the ability to recognize 3 different key inputs (Z, X and C); Each recognized key prints the name of a different animal (Bird, Pig and Cat), using switch cases and enums. More details can be seen in the General project summary comments tab and in the other code comments. Real Materials Vol.0 - free samples (Lex4art) from the Asset Store were used and installed with Package Manager. Some prefabs and meshes used in the project were obtained from the Asset Store (mesh of the 'Power Orbs' - Sphere decorative_PHYS from Lex4art). The other prefabs (coins, door, key, level design, and animal symbols) were made by me using primitives available in Unity and models made in Blender 4.4.
+Scene created for exercise of module-4-EBAC. A objec called AnimalSignSystem (class = ScriptModulo4EBAC) was added to the scene of a maze game. The class containing the ability to recognize 3 different key inputs (Z, X and C); Each recognized key prints the name of a different animal (Bird, Pig and Cat), using switch cases and enums. More details can be seen in the General project summary comments tab and in the other code comments. Prototype Map (AngeloMaN87) from the Asset Store were used and installed with Package Manager. Prefabs (coins, door, key, level design, and animal signs) were made using primitives available in Unity and models made in Blender 4.4.
 
 
 * The Maze Game started!
